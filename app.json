@@ -17,62 +17,62 @@
         },
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "7195016407:AAGoOCBLDoLfsk2RC4VcgXxOLneblY9eFdY",
         "required": true
       },
       "BOT_TOKEN2": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "6929473076:AAHJ0fLxi_MTWKD3xGtHCKnHgySXXrW1bSw",
         "required": true
       },
       "BOT_TOKEN3": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "7019291445:AAHNe_i6q9SDM6_7itPTV8zeygrPXMsjUGc",
         "required": true
       },
       "BOT_TOKEN4": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "6552541910:AAH2q4iS1uYfUdcWHsUQSaddXSS6DHpwpxk",
         "required": true
       },
       "BOT_TOKEN5": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "7071664015:AAEJ5GVyP4hWrjtFiRpTHGcCh_tFYTr5TOM",
         "required": true
       },
       "BOT_TOKEN6": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "7111774721:AAG189TNAZr-IYk5vA2WU2if8J216EHEtDQ",
         "required": true
       },
       "BOT_TOKEN7": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "7157628756:AAENnOpd5RyvEZVPwsgc582mAjSjGnNQMM4",
         "required": true
       },
       "BOT_TOKEN8": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "7086303563:AAHiwjhEOGWP1va95KcXXjCDs5uzAo8yD0g",
         "required": true
       },
       "BOT_TOKEN9": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "7123112277:AAFI0goGkGbagRwobai9b7OVhF64h-nhRdg",
         "required": true
       },
       "BOT_TOKEN10": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "7117675315:AAHpGpiZKUysA9xGqDGKIaoy9YXW-Bk0dZs",
         "required": true
       },
        "SUDO_USER": {
             "description": "Sudo users id space by space",
-            "value": "",
+            "value": "1215104805",
             "required": false
         },
       "OWNER_ID": {
             "description": "Owner Id",
-            "value": "",
+            "value": "1653673372",
             "required": true
         },
         "HEROKU_API_KEY": {
