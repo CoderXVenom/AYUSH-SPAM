@@ -18,7 +18,7 @@ PythonHelp = f"☞ 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌 𝖬𝖾𝗇𝗎\n\n⧉  �
 async def help(event):
     if event.sender_id in SUDO_USERS:
        await event.client.send_file(event.chat_id,
-                                  "https://telegra.ph/file/46b2748409590033743a4.jpg",
+                                  "https://telegra.ph/file/57c2f04d2d2415d347cba.jpg",
                                   caption=PythonHelp,
                                   buttons=[
            [
