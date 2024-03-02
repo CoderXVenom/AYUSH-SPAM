@@ -36,6 +36,6 @@ async def start(event):
         TEXT += f"⧉  𝖳𝖺𝗉 𝗈𝗇 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌 𝖡𝗎𝗍𝗍𝗈𝗇 𝖳𝗈 𝖫𝖾𝖺𝗋𝗇 𝖬𝗈𝗋𝖾📄 𝖠𝖻𝗈𝗎𝗍 𝗁𝗈𝗐 𝗍𝗈 𝗎𝗌𝖾 𝗍𝗁𝗂𝗌 𝖡𝗈𝗍."
         await event.client.send_file(
                 event.chat_id,
-                "https://telegra.ph/file/46b2748409590033743a4.jpg",
+                "https://telegra.ph/file/57c2f04d2d2415d347cba.jpg",
                 caption=TEXT, 
                 buttons=PythonButton)
